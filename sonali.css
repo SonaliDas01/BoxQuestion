@@ -1,0 +1,32 @@
+.b1 {
+   display:inline-block;
+   position: relative;
+   width:100px;
+   height:100px;
+   padding: 50px;
+   margin: 5px;
+   background-color: blue;
+   border: 5px solid;
+}
+
+.b2 {
+   display:inline-block;
+   position: relative;
+   width:100px;
+   height:100px;
+   padding: 50px;
+   margin: 5px;
+   background-color:yellow;
+   border: 5px solid ;
+}
+
+.b3 {
+   display:inline-block;
+   position: relative;
+   width:100px;
+   height:100px;
+   padding: 50px;
+   margin: 5px;
+   background-color: orange;
+   border: 5px solid ;
+}
